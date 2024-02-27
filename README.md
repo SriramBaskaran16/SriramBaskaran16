@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br>Hi there! 👋 I'm Sriram Baskaran<br><br><br><br>I'm a passionate Full Stack Developer with a focus on front-end technologies. My journey involves crafting delightful user experiences using HTML, CSS, JavaScript, React.js, Bootstrap, and Sass. I'm also proficient in backend technologies like Node.js, Express.js, Python, SQL, and MongoDB. Git and GitHub are my go-to tools for version control and collaboration.<br>
+<br>Hi there! 👋 I'm Sriram Baskaran<br><br><br><br>I'm a passionate Full Stack Developer with a focus on front-end technologies. My journey involves crafting delightful user experiences using HTML, CSS, JavaScript, ReactJs, Bootstrap, and Sass. I'm also proficient in backend technologies like Node.js, Express.js, Python, SQL, and MongoDB. Git and GitHub are my go-to tools for version control and collaboration.<br>
 ### Current Projects:
 🏋️ Currently, I'm working on an exciting project for a gym, aiming to revolutionize the way fitness is approached and managed.<br>
 ### Portfolio:
